@@ -4,6 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/rsl-401-advanced-javascript/class-01/pull/1)
+* [travis](https://travis-ci.com/rsl-401-advanced-javascript/class-01)
 
 ### Modules
 #### `arithmetic.js`
